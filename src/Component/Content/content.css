@@ -1,0 +1,10 @@
+.tables_container{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  
+}
+.content{
+  background-color: black;
+  height: 100vh;
+}
+  
